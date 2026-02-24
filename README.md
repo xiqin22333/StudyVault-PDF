@@ -16,6 +16,7 @@
 - [Contributing / 贡献指南](#contributing-贡献指南)
 - [Contact / 联系方式](#contact-联系方式)
 
+
 ---
 
 ## About / 关于
@@ -73,6 +74,6 @@ git clone https://github.com/xiqin22333/StudyVault-PDF.git
 ## Contact / 联系方式
 
 - 作者：xiqing
----
+- gmail 
 
 ## Next steps / 后续建议
