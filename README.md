@@ -1,5 +1,9 @@
 # 📚 StudyVault — 学习报告与笔记（PDF 收藏）
 
+![Study Cover](https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1600&q=80)
+
+[![Last Commit](https://img.shields.io/github/last-commit/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF/commits/main) [![Top Language](https://img.shields.io/github/languages/top/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF) [![Repo Size](https://img.shields.io/github/repo-size/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF) [![License](https://img.shields.io/github/license/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF)
+
 > A personal collection of study reports and learning materials in PDF format.  
 > 学习报告与学习笔记的个人收藏（PDF 格式）。
 
@@ -45,7 +49,7 @@
 
 - 浏览：在 GitHub 网页上直接点击对应 PDF 文件名即可在线预览（若文件较大，GitHub 可能只提供下载）。
 - 下载：使用页面右上角的 “Download” 或通过 git clone 仓库到本地后直接打开 PDF。
-- 搜索：可以在仓库中通过文件名或关键词搜索（建议在文件名中保持课程/实验/日期等关键信息以便检索）。
+- 搜索：可以在仓库中��过文件名或关键词搜索（建议在文件名中保持课程/实验/日期等关键信息以便检索）。
 
 命令示例（克隆仓库）：
 ```bash
@@ -88,4 +92,4 @@ git clone https://github.com/xiqin22333/StudyVault-PDF.git
 
 - 为仓库添加一个简单的 `LICENSE`（如果你希望公开许可）。
 - 添加每个主要目录下的 `INDEX.md`，包含文件名、简短描述与关键字（我可以帮你自动生成）。
-- 若希望页面更美观，可以添加 badges（例如 build / last-updated / pdf-count 等），并在 README 顶部放一张封面图或仓库logo.
+- 若希望页面更美观，可以添加更多 badges（例如 pdf-count / last-updated-by）或自定义封面图.
