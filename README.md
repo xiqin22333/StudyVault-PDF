@@ -1,7 +1,5 @@
 # 📚 StudyVault — 学习报告与笔记（PDF 收藏）
 
-![Study Cover](https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1600&q=80)
-
 [![Last Commit](https://img.shields.io/github/last-commit/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF/commits/main) [![Top Language](https://img.shields.io/github/languages/top/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF) [![Repo Size](https://img.shields.io/github/repo-size/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF) [![License](https://img.shields.io/github/license/xiqin22333/StudyVault-PDF)](https://github.com/xiqin22333/StudyVault-PDF)
 
 > A personal collection of study reports and learning materials in PDF format.  
